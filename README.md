@@ -1,4 +1,4 @@
-### Hi there 👋
+### Professional at failing recursion interview questions.
 
 <!--
 **phated/phated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
